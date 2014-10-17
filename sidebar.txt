@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[owi:home|Door43 (owi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-owi|d43-owi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-owi/archive/master.zip|d43-owi.zip]]
+
+**Recent Changes**
+{{changes>ns = owi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/owi|Ethnologue data]]
+
